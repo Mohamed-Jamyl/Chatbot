@@ -1,0 +1,61 @@
+{
+    "questions":[
+        {
+         "question":"hey what is your name ?",
+         "answer":"my name is astrobot and you "
+        },
+        {
+            "question":"what is the color of sky",
+            "answer":"blue" 
+        },
+        {
+            "question":"how are you",
+            "answer":"i am fine"
+        },
+        {
+            "question":"how are you doing",
+            "answer":"i am doing great"
+           },
+           {
+               "question":"hello",
+               "answer":"hey" 
+           },
+           {
+               "question":"what's up",
+               "answer":"not much,what about you"
+           },
+           {
+            "question":"great",
+            "answer":"me too"
+           },
+           {
+               "question":"nice to meet you",
+               "answer":"nice to meet you too" 
+           },
+           {
+               "question":"i'm simo",
+               "answer":"nice to meet you"
+           },
+           {
+            "question":"what is the capital of marocco",
+            "answer":"rabat"
+           },
+           {
+            "question":"hey",
+            "answer":"hello"
+        },
+        {
+            "question":"wach asat cv",
+            "answer":"hmd had sa3a dkhol flmawdo3"
+        },
+        {
+         "question":"yak cv",
+         "answer":"ta gol ach baghi tgol ola dor T7wa"
+        },
+        {
+         "question":"ta mal zamlbok m9alla9 ra kant dawi m3a chariki o hamid ",
+         "answer":"ta lach kadwi m3a hadok l9roda dzb"
+     }
+     
+        ]
+}
